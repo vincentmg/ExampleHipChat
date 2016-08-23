@@ -1,0 +1,2 @@
+# ExampleHipChat
+HipChat
