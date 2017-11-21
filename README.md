@@ -1,2 +1,3 @@
 # ExampleHipChat
 HipChat
+Enable TradeBreakNotification
